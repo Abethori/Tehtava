@@ -1,8 +1,4 @@
-onion
+melon
 beans
 tomato
-<<<<<<< HEAD
 potato
-=======
-lettuce
->>>>>>> 20e150adce85fc403870dc1f7e109ad9f5ac5d0b
