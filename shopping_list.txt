@@ -1,3 +1,4 @@
 onions
 beans
 tomato
+lettuce
